@@ -4,6 +4,8 @@
 [![Stories in Ready](https://badge.waffle.io/bcgov/bc-laws-api.png?label=ready&title=Ready)](https://waffle.io/bcgov/bc-laws-api)
 # bc-laws-api
 
+[![Join the chat at https://gitter.im/bcgov/bc-laws-api](https://badges.gitter.im/bcgov/bc-laws-api.svg)](https://gitter.im/bcgov/bc-laws-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The purpose of this repo is to collaborate on improvements to the BC Laws API.
 
 ## Features
